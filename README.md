@@ -55,7 +55,7 @@ Our codebase features extensive documentation with comprehensive inline comments
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/novustechllc/Arbitrage-Bot.git
+git clone https://github.com/novustch/Arbitrage-Bot.git
 ```
 
 ### Install Dependencies
@@ -170,12 +170,12 @@ Our project operates on principles of open source and privacy. We maintain no so
 
 | Platform | Link |
 |----------|------|
-| 📱 Telegram | [t.me/novustechllc](https://t.me/novustechllc) |
+| 📱 Telegram | [t.me/novustch](https://t.me/novustch) |
 | 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
 | 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
 
 <div align="center">
-    <a href="https://t.me/novustechllc" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/novustch" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
