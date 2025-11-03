@@ -20,7 +20,9 @@ Welcome to the `Arbitrage-Bot` repository — a comprehensive toolkit designed t
 </div>
 </br>
 Feel free to reach out for implementation assistance or integration support.
+
 ---
+
 ## Table of Contents
 
 - [What is Arbitrage?](#what-is-arbitrage)
